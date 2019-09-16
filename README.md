@@ -1,1 +1,3 @@
-# gitflow_workshop
+# Git Flow workshop
+
+Ardigen software carpentry
